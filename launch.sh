@@ -7,8 +7,8 @@ if ! [[ -w "/data" ]]; then
   exit 66
 fi
 
-ID=119
-VER=11469
+ID=110
+VER=6593
 
 cd /data
 
